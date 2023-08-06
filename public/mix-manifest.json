@@ -1,0 +1,10 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/resource/js/components/company/list.js": "/js/resource/js/components/company/list.js",
+    "/js/resource/js/components/company/add.js": "/js/resource/js/components/company/add.js",
+    "/js/resource/js/components/company/edit.js": "/js/resource/js/components/company/edit.js",
+    "/js/resource/js/components/employee/list.js": "/js/resource/js/components/employee/list.js",
+    "/js/resource/js/components/employee/add.js": "/js/resource/js/components/employee/add.js",
+    "/js/resource/js/components/employee/edit.js": "/js/resource/js/components/employee/edit.js",
+    "/css/app.css": "/css/app.css"
+}
